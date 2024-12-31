@@ -1,0 +1,71 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [
+    "jupyterlab >=4,<5"
+  ],
+  "depends": [
+    "param",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\pyviz_comms-3.0.2-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/pyviz_comms-3.0.2.dist-info/INSTALLER",
+    "Lib/site-packages/pyviz_comms-3.0.2.dist-info/METADATA",
+    "Lib/site-packages/pyviz_comms-3.0.2.dist-info/RECORD",
+    "Lib/site-packages/pyviz_comms-3.0.2.dist-info/REQUESTED",
+    "Lib/site-packages/pyviz_comms-3.0.2.dist-info/WHEEL",
+    "Lib/site-packages/pyviz_comms-3.0.2.dist-info/direct_url.json",
+    "Lib/site-packages/pyviz_comms-3.0.2.dist-info/licenses/LICENSE",
+    "Lib/site-packages/pyviz_comms-3.0.2.dist-info/licenses/LICENSE.txt",
+    "Lib/site-packages/pyviz_comms/__init__.py",
+    "Lib/site-packages/pyviz_comms/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/pyviz_comms/__pycache__/_version.cpython-312.pyc",
+    "Lib/site-packages/pyviz_comms/_version.py",
+    "Lib/site-packages/pyviz_comms/labextension/package.json",
+    "Lib/site-packages/pyviz_comms/labextension/schemas/@pyviz/jupyterlab_pyviz/package.json.orig",
+    "Lib/site-packages/pyviz_comms/labextension/schemas/@pyviz/jupyterlab_pyviz/plugin.json",
+    "Lib/site-packages/pyviz_comms/labextension/static/30.daddcd1b31fcf027b32b.js",
+    "Lib/site-packages/pyviz_comms/labextension/static/479.f8613002a4a279797a83.js",
+    "Lib/site-packages/pyviz_comms/labextension/static/747.9aeb343e85f683c2e81e.js",
+    "Lib/site-packages/pyviz_comms/labextension/static/remoteEntry.c8393541423362724be3.js",
+    "Lib/site-packages/pyviz_comms/labextension/static/style.js",
+    "Lib/site-packages/pyviz_comms/labextension/static/third-party-licenses.json",
+    "Lib/site-packages/pyviz_comms/notebook.js",
+    "Lib/site-packages/pyviz_comms/tests/__init__.py",
+    "Lib/site-packages/pyviz_comms/tests/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/pyviz_comms/tests/__pycache__/test_extension.cpython-312.pyc",
+    "Lib/site-packages/pyviz_comms/tests/test_extension.py",
+    "share/jupyter/labextensions/@pyviz/jupyterlab_pyviz/package.json",
+    "share/jupyter/labextensions/@pyviz/jupyterlab_pyviz/schemas/@pyviz/jupyterlab_pyviz/package.json.orig",
+    "share/jupyter/labextensions/@pyviz/jupyterlab_pyviz/schemas/@pyviz/jupyterlab_pyviz/plugin.json",
+    "share/jupyter/labextensions/@pyviz/jupyterlab_pyviz/static/30.daddcd1b31fcf027b32b.js",
+    "share/jupyter/labextensions/@pyviz/jupyterlab_pyviz/static/479.f8613002a4a279797a83.js",
+    "share/jupyter/labextensions/@pyviz/jupyterlab_pyviz/static/747.9aeb343e85f683c2e81e.js",
+    "share/jupyter/labextensions/@pyviz/jupyterlab_pyviz/static/remoteEntry.c8393541423362724be3.js",
+    "share/jupyter/labextensions/@pyviz/jupyterlab_pyviz/static/style.js",
+    "share/jupyter/labextensions/@pyviz/jupyterlab_pyviz/static/third-party-licenses.json",
+    ".nonadmin"
+  ],
+  "fn": "pyviz_comms-3.0.2-py312haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\pyviz_comms-3.0.2-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "cf47bf381d138ad2a68bf1721160092b",
+  "name": "pyviz_comms",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\pyviz_comms-3.0.2-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::pyviz_comms==3.0.2=py312haa95532_0[md5=cf47bf381d138ad2a68bf1721160092b]",
+  "sha256": "ebcead4d376fd9e949207eee7550f4d8f146cb8d8ef957445fa9fe070e5e108d",
+  "size": 57777,
+  "subdir": "win-64",
+  "timestamp": 1711137210000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pyviz_comms-3.0.2-py312haa95532_0.conda",
+  "version": "3.0.2"
+}
